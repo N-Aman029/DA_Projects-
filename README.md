@@ -32,4 +32,4 @@ This Power BI Sales Dashboard analyzes store performance using interactive visua
 ∎ Designed for quick business decision-making and performance monitoring
 
 6. Screenshot :
- [Dashboard Preview]()
+ [Dashboard Preview](https://github.com/N-Aman029/DA_Projects-/blob/main/Screenshot%202026-02-13%20124757.png)
